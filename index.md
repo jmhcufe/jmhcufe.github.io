@@ -1,4 +1,5 @@
 ## 贾明华（Minghua Jia）
+![Image text](https://jmhcufe.github.io/jmh.jpg)
 
 ### 教育经历
 - 中央财经大学信息学院  电子信息（金融科技方向） 硕士 
