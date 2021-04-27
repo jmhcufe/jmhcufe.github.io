@@ -1,8 +1,7 @@
-## 贾明华
+# 贾明华
 
 
-# Header 1
-## Header 2
+## 教育经历
 ### Header 3
 
 - Bulleted
