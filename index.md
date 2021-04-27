@@ -1,19 +1,9 @@
-# 贾明华
+## 贾明华（Minghua Jia）
 
+### 教育经历
 
-## 教育经历
-
-- 中央财经大学 电子信息 硕士 信息学院
-北京
-推免生，研究方向（金融科技）; GPA：4.02/ 4.5
-奖学金/荣誉：新生奖学金二等奖、科研优秀学子
-北京信息科技大学
-软件工程 本科 计算机学院
-2016年09月 - 2020年07月
-北京
-GPA：4.19/ 5.0（四年专业第一）
-奖学金：国家励志奖学金（2017-2019）、学习优秀奖学金（2017-2019）、科技创新奖学金（2017-2019）等
-荣誉：北京市优秀毕业生、北京市优秀毕业设计、校级三好学生（2018、2019）等
+- 中央财经大学信息学院  专业：电子信息 硕士 
+- 北京信息科技大学计算机学院  专业：软件工程 本科
 
 ### 专利
 - 专利：**贾明华**,崔展齐. 一种基于复合蜕变关系的分类器测试方法及系统[P]. 北京市：CN109766259A,2019-05-17.
@@ -31,4 +21,3 @@ GPA：4.19/ 5.0（四年专业第一）
 - 论文：Minghua Jia, Zhanqi Cui, Yiwen Wu, Ruilin Xie, and Xiulei Liu. SMFL Integrating Spectrum and Mutation for Fault Localization. 2019 6th International Conference on Dependable Systems and Their Applications (DSA), Harbin, China, 2020, pp. 511-512. (EI 20202208767905)
 - 论文：Ruilin Xie, Zhanqi Cui, Minghua Jia, Yuan Wen, and Baoshui Hao. Testing Coverage Criteria for Deep Forests. 2019 6th International Conference on Dependable Systems and Their Applications (DSA), Harbin, China, 2020, pp. 513-514. (EI 20202208767916)
 - 论文：Zhanqi Cui, Minghua Jia, Xiang Chen, Liwei Zheng, Xiulei Liu. Improving Software Fault Localization by Combining Spectrum and Mutation, in IEEE Access, vol. 8, pp. 172296-172307, 2020, doi: 10.1109/ACCESS.2020.3025460. (SCI 000575880100001)
-- 论文：杨慧文,崔展齐,陈翔,贾明华,郑丽伟,刘建宾.面向Solidity智能合约的缺陷预测方法[J].计算机学报,(在审)
