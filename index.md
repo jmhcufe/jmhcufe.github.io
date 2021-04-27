@@ -17,7 +17,7 @@
 
 ### 论文
 - 论文：**贾明华**,徐月,王晓东.基于蜕变关系的贝叶斯分类器测试数据集生成器的设计与实现[J].数字技术与应用,2019,37(05):166-167.
-- 论文：**Minghua Jia**, Xiaodong Wang, Yue Xu, Zhanqi Cui, Ruilin Xie. Testing Machine Learning Classifiers based on Compositional Metamorphic Relations. International Journal of Performability Eng, 2020, 16(1): 67-77. (**EI** 20200908240695)
-- 论文：**Minghua Jia**, Zhanqi Cui, Yiwen Wu, Ruilin Xie, and Xiulei Liu. SMFL Integrating Spectrum and Mutation for Fault Localization. 2019 6th International Conference on Dependable Systems and Their Applications (DSA), Harbin, China, 2020, pp. 511-512. (**EI** 20202208767905)
-- 论文：Ruilin Xie, Zhanqi Cui, **Minghua Jia**, Yuan Wen, and Baoshui Hao. Testing Coverage Criteria for Deep Forests. 2019 6th International Conference on Dependable Systems and Their Applications (DSA), Harbin, China, 2020, pp. 513-514. (**EI** 20202208767916)
-- 论文：Zhanqi Cui, **Minghua Jia**, Xiang Chen, Liwei Zheng, Xiulei Liu. Improving Software Fault Localization by Combining Spectrum and Mutation, in IEEE Access, vol. 8, pp. 172296-172307, 2020, doi: 10.1109/ACCESS.2020.3025460. (**SCI** 000575880100001)
+- 论文：**Minghua Jia**, Xiaodong Wang, Yue Xu, Zhanqi Cui, Ruilin Xie. Testing Machine Learning Classifiers based on Compositional Metamorphic Relations. International Journal of Performability Eng, 2020, 16(1): 67-77. (**EI 20200908240695**)
+- 论文：**Minghua Jia**, Zhanqi Cui, Yiwen Wu, Ruilin Xie, and Xiulei Liu. SMFL Integrating Spectrum and Mutation for Fault Localization. 2019 6th International Conference on Dependable Systems and Their Applications (DSA), Harbin, China, 2020, pp. 511-512. (**EI 20202208767905**)
+- 论文：Ruilin Xie, Zhanqi Cui, **Minghua Jia**, Yuan Wen, and Baoshui Hao. Testing Coverage Criteria for Deep Forests. 2019 6th International Conference on Dependable Systems and Their Applications (DSA), Harbin, China, 2020, pp. 513-514. (**EI 20202208767916**)
+- 论文：Zhanqi Cui, **Minghua Jia**, Xiang Chen, Liwei Zheng, Xiulei Liu. Improving Software Fault Localization by Combining Spectrum and Mutation, in IEEE Access, vol. 8, pp. 172296-172307, 2020, doi: 10.1109/ACCESS.2020.3025460. (**SCI 000575880100001**)
