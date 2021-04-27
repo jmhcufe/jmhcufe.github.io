@@ -23,10 +23,10 @@ Email: jmhcufe AT 163.com
 - 论文：Zhanqi Cui, **Minghua Jia**, Xiang Chen, Liwei Zheng, Xiulei Liu. Improving Software Fault Localization by Combining Spectrum and Mutation, in IEEE Access, vol. 8, pp. 172296-172307, 2020, doi: 10.1109/ACCESS.2020.3025460. (**SCI 000575880100001**)
 
 ### 参加的学术会议
-- NASAC2018 第17届全国软件与应用学术会议 2018.11.23-25 深圳大学
-- ISSSR2019 第5届系统与软件可靠性国际会议 2019.06.06-7 电子科技大学
+- NASAC2018 第17届全国软件与应用学术会议 2018.11.23-25 中国深圳 深圳大学
+- ISSSR2019 第5届系统与软件可靠性国际会议 2019.06.06-7 中国成都 电子科技大学
 - NASAC2019 第18届全国软件与应用学术会议 2019.11.22-24 中国杭州
-- DSA2019 2019 6th International Conference on Dependable Systems and Their Applications 2020.01.05-06 哈尔滨理工大学
+- DSA2019 第6届可靠系统及其应用国际会议 2020.01.05-06 中国哈尔滨 哈尔滨理工大学
 
 ### 研究生期间所获奖学金/荣誉
 - 新生奖学金二等奖
