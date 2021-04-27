@@ -21,6 +21,10 @@
 - 论文：Ruilin Xie, Zhanqi Cui, **Minghua Jia**, Yuan Wen, and Baoshui Hao. Testing Coverage Criteria for Deep Forests. 2019 6th International Conference on Dependable Systems and Their Applications (DSA), Harbin, China, 2020, pp. 513-514. (**EI 20202208767916**)
 - 论文：Zhanqi Cui, **Minghua Jia**, Xiang Chen, Liwei Zheng, Xiulei Liu. Improving Software Fault Localization by Combining Spectrum and Mutation, in IEEE Access, vol. 8, pp. 172296-172307, 2020, doi: 10.1109/ACCESS.2020.3025460. (**SCI 000575880100001**)
 
+### 研究生期间所获奖学金/荣誉
+- 新生奖学金二等奖
+- 信息学院科研优秀学子
+
 ### 本科期间所获奖学金
 - 国家励志奖学金3次(2016-2017,2017-2018,2018-2019)
 - 学习优秀奖学金一等奖2次(2017-2018,2018-2019),二等奖1次(2016-2017)
