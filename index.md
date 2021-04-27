@@ -1,7 +1,6 @@
 ## 贾明华（Minghua Jia）
 
 ### 教育经历
-
 - 中央财经大学信息学院  电子信息（金融科技方向） 硕士 
 - 北京信息科技大学计算机学院  软件工程 本科
 
@@ -21,3 +20,9 @@
 - 论文：**Minghua Jia**, Zhanqi Cui, Yiwen Wu, Ruilin Xie, and Xiulei Liu. SMFL Integrating Spectrum and Mutation for Fault Localization. 2019 6th International Conference on Dependable Systems and Their Applications (DSA), Harbin, China, 2020, pp. 511-512. (**EI 20202208767905**)
 - 论文：Ruilin Xie, Zhanqi Cui, **Minghua Jia**, Yuan Wen, and Baoshui Hao. Testing Coverage Criteria for Deep Forests. 2019 6th International Conference on Dependable Systems and Their Applications (DSA), Harbin, China, 2020, pp. 513-514. (**EI 20202208767916**)
 - 论文：Zhanqi Cui, **Minghua Jia**, Xiang Chen, Liwei Zheng, Xiulei Liu. Improving Software Fault Localization by Combining Spectrum and Mutation, in IEEE Access, vol. 8, pp. 172296-172307, 2020, doi: 10.1109/ACCESS.2020.3025460. (**SCI 000575880100001**)
+
+### 奖学金
+- 国家励志奖学金3次
+- 学习优秀奖学金一等奖2次，二等奖1次
+- 科技创新奖学金一等奖1次，二等奖1次，三等奖1次
+- 社会贡献奖2次
