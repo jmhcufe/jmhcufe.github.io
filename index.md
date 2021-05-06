@@ -1,5 +1,5 @@
 ## Minghua Jia (贾明华)
-Email: jmhcufe AT 163.com    <p><img src="https://jmhcufe.github.io/jmh.png" height="150" width="150" align="right"></p>
+Email: jmhcufe AT 163.com    <p><img src="https://jmhcufe.github.io/jmh.png" height="120" width="120" align="right"></p>
 
 
 ### 教育经历
