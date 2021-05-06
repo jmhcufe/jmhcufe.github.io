@@ -2,7 +2,7 @@
 Email: jmhcufe AT 163.com
 
 ### 教育经历
-- 中央财经大学信息学院  电子信息(金融科技方向) 硕士                                               ![照片](https://github.com/jmhcufe/jmhcufe.github.io/blob/main/jmh.png)
+- 中央财经大学信息学院  电子信息(金融科技方向) 硕士        ![照片](https://github.com/jmhcufe/jmhcufe.github.io/blob/main/jmh.png)
 - 北京信息科技大学计算机学院  软件工程 本科
 
 ### 专利
