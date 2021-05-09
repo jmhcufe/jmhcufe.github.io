@@ -23,6 +23,9 @@ Email: jmhcufe AT 163.com    <img src="https://jmhcufe.github.io/jmh.png" height
 - 论文：Ruilin Xie, Zhanqi Cui, **Minghua Jia**, Yuan Wen, and Baoshui Hao. Testing Coverage Criteria for Deep Forests. 2019 6th International Conference on Dependable Systems and Their Applications (DSA), Harbin, China, 2020, pp. 513-514. (**EI 20202208767916**)
 - 论文：Zhanqi Cui, **Minghua Jia**, Xiang Chen, Liwei Zheng, Xiulei Liu. Improving Software Fault Localization by Combining Spectrum and Mutation, in IEEE Access, vol. 8, pp. 172296-172307, 2020, doi: 10.1109/ACCESS.2020.3025460. (**SCI 000575880100001**)
 
+### 项目
+- 主持项目：国家级大学生创新计划项目, 5101923400, 基于复合蜕变关系的分类器测试方法研究, 2018/12-2019/12, (已结题，优)
+
 ### 参加的学术会议
 - NASAC2018 第17届全国软件与应用学术会议 2018.11.23-25 中国深圳 深圳大学
 - ISSSR2019 第5届系统与软件可靠性国际会议 2019.06.06-07 中国成都 电子科技大学
