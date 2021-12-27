@@ -22,7 +22,7 @@ Email: jmhcufe AT 163.com    <img src="https://jmhcufe.github.io/jmh.png" height
 - 论文：**Minghua Jia**, Xiaodong Wang, Yue Xu, Zhanqi Cui, Ruilin Xie. Testing Machine Learning Classifiers based on Compositional Metamorphic Relations. International Journal of Performability Engineering, 2020, 16(1): 67-77. (**EI 20200908240695**)
 - 论文：**Minghua Jia**, Zhanqi Cui, Yiwen Wu, Ruilin Xie, and Xiulei Liu. SMFL Integrating Spectrum and Mutation for Fault Localization. 2019 6th International Conference on Dependable Systems and Their Applications (DSA), Harbin, China, 2020, pp. 511-512. (**EI 20202208767905**)
 - 论文：Ruilin Xie, Zhanqi Cui, **Minghua Jia**, Yuan Wen, and Baoshui Hao. Testing Coverage Criteria for Deep Forests. 2019 6th International Conference on Dependable Systems and Their Applications (DSA), Harbin, China, 2020, pp. 513-514. (**EI 20202208767916**)
-- 论文：Zhanqi Cui, **Minghua Jia**, Xiang Chen, Liwei Zheng, Xiulei Liu. Improving Software Fault Localization by Combining Spectrum and Mutation, in IEEE Access, vol. 8, pp. 172296-172307, 2020, doi: 10.1109/ACCESS.2020.3025460. (**SCI 000575880100001**)
+- 论文：Zhanqi Cui, **Minghua Jia**, Xiang Chen, Liwei Zheng, Xiulei Liu. Improving Software Fault Localization by Combining Spectrum and Mutation, in IEEE Access, vol. 8, pp. 172296-172307, 2020, doi: 10.1109/ACCESS.2020.3025460. (**SCI 000575880100001, EI 20211210119813**)
 - 论文：杨慧文,崔展齐,陈翔,**贾明华**,郑丽伟,刘建宾.基于软件度量的Solidity智能合约缺陷预测方法.2021 CCF中国软件大会（CCF Chinasoft）领域软件工程论坛.
 - 论文：**贾明华**,王秀利.基于BERT和互信息的金融风险逻辑关系量化方法.（审稿中）
 
