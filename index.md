@@ -23,7 +23,7 @@ Email: jmhcufe AT 163.com    <img src="https://jmhcufe.github.io/jmh.png" height
 - 论文：**Minghua Jia**, Zhanqi Cui, Yiwen Wu, Ruilin Xie, and Xiulei Liu. SMFL Integrating Spectrum and Mutation for Fault Localization. 2019 6th International Conference on Dependable Systems and Their Applications (DSA), Harbin, China, 2020, pp. 511-512. (**EI 20202208767905**)
 - 论文：Ruilin Xie, Zhanqi Cui, **Minghua Jia**, Yuan Wen, and Baoshui Hao. Testing Coverage Criteria for Deep Forests. 2019 6th International Conference on Dependable Systems and Their Applications (DSA), Harbin, China, 2020, pp. 513-514. (**EI 20202208767916**)
 - 论文：Zhanqi Cui, **Minghua Jia**, Xiang Chen, Liwei Zheng, Xiulei Liu. Improving Software Fault Localization by Combining Spectrum and Mutation, in IEEE Access, vol. 8, pp. 172296-172307, 2020, doi: 10.1109/ACCESS.2020.3025460. (**SCI 000575880100001, EI 20211210119813**)
-- 论文：杨慧文,崔展齐,陈翔,**贾明华**,郑丽伟,刘建宾.基于软件度量的Solidity智能合约缺陷预测方法[J].软件学报,2022.（已录用）
+- 论文：杨慧文,崔展齐,陈翔,**贾明华**,郑丽伟,刘建宾.基于软件度量的Solidity智能合约缺陷预测方法[J].软件学报,2022,33(5).
 
 ### 项目
 - 主持项目：国家级大学生创新计划项目, 5101923400, 基于复合蜕变关系的分类器测试方法研究, 2018/12-2019/12, (已结题，优)
