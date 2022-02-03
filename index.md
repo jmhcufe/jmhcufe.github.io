@@ -8,21 +8,21 @@ Email: jmhcufe AT 163.com    <img src="https://jmhcufe.github.io/jmh.png" height
 - 北京信息科技大学 计算机学院  软件工程 本科 研究方向：软件测试  
 
 ### 专利  
-- 专利：**贾明华**, 崔展齐. 一种基于复合蜕变关系的分类器测试方法及系统, 专利号:2018114648802, 申请日:2018-12-03, 授权公告日:2022-02-01.
-- 专利：杨慧文, 崔展齐, **贾明华**, 刘秀磊, 刘建宾, 郑丽伟. 面向Solidity智能合约的缺陷预测方法, 申请号:2020115620731, 申请日:2020-12-25.  
-- 专利：王秀利, **贾明华**. 一种融合领域知识的风险逻辑关系量化分析方法, 申请号:2021102345389, 申请日:2021-03-03.  
+- 专利：**贾明华**, 崔展齐. 一种基于复合蜕变关系的分类器测试方法及系统, 专利号: 2018114648802, 申请日: 2018-12-03, 授权公告日: 2022-02-01.
+- 专利：杨慧文, 崔展齐, **贾明华**, 刘秀磊, 刘建宾, 郑丽伟. 面向Solidity智能合约的缺陷预测方法, 申请号: 2020115620731, 申请日: 2020-12-25.  
+- 专利：王秀利, **贾明华**. 一种融合领域知识的风险逻辑关系量化分析方法, 申请号: 2021102345389, 申请日: 2021-03-03.  
 
 ### 软件著作权  
-- 软件著作权：KidKid幼儿启蒙教育软件V1.0, 登记号:2020SR0307716.
-- 软件著作权：融合频谱和变异的软件缺陷定位工具系统SpMu-FL V1.0, 登记号:2020SR0970466.
-- 软件著作权：金融事件风险逻辑关系量化平台FERL-RQ V1.0, 登记号:2021SR0713231.
+- 软件著作权：KidKid幼儿启蒙教育软件V1.0, 登记号: 2020SR0307716.
+- 软件著作权：融合频谱和变异的软件缺陷定位工具系统SpMu-FL V1.0, 登记号: 2020SR0970466.
+- 软件著作权：金融事件风险逻辑关系量化平台FERL-RQ V1.0, 登记号: 2021SR0713231.
 
 ### 论文
-- 论文：**贾明华**, 徐月, 王晓东. 基于蜕变关系的贝叶斯分类器测试数据集生成器的设计与实现[J]. *数字技术与应用*, 2019, 37(5):166-167.
-- 论文：**Minghua Jia**, Xiaodong Wang, Yue Xu, Zhanqi Cui, Ruilin Xie. Testing Machine Learning Classifiers based on Compositional Metamorphic Relations[J]. *International Journal of Performability Engineering*, 2020, 16(1):67-77. (**EI 20200908240695**) 
-- 论文：**Minghua Jia**, Zhanqi Cui, Yiwen Wu, Ruilin Xie, Xiulei Liu. SMFL Integrating Spectrum and Mutation for Fault Localization[C]. *In Proceedings of the 6th International Conference on Dependable Systems and Their Applications (DSA 2019)*, Harbin, China, 2020:511-512. (**EI 20202208767905**)
-- 论文：Ruilin Xie, Zhanqi Cui, **Minghua Jia**, Yuan Wen, Baoshui Hao. Testing Coverage Criteria for Deep Forests[C]. *In Proceedings of the 6th International Conference on Dependable Systems and Their Applications (DSA 2019)*, Harbin, China, 2020:513-514. (**EI 20202208767916**)
-- 论文：Zhanqi Cui, **Minghua Jia**, Xiang Chen, Liwei Zheng, Xiulei Liu. Improving Software Fault Localization by Combining Spectrum and Mutation[J]. *IEEE Access*, 2020, 8:172296-172307. (**SCI 000575880100001, EI 20211210119813**)
+- 论文：**贾明华**, 徐月, 王晓东. 基于蜕变关系的贝叶斯分类器测试数据集生成器的设计与实现[J]. *数字技术与应用*, 2019, 37(5): 166-167.
+- 论文：**Minghua Jia**, Xiaodong Wang, Yue Xu, Zhanqi Cui, Ruilin Xie. Testing Machine Learning Classifiers based on Compositional Metamorphic Relations[J]. *International Journal of Performability Engineering*, 2020, 16(1): 67-77. (**EI 20200908240695**) 
+- 论文：**Minghua Jia**, Zhanqi Cui, Yiwen Wu, Ruilin Xie, Xiulei Liu. SMFL Integrating Spectrum and Mutation for Fault Localization[C]. *In Proceedings of the 6th International Conference on Dependable Systems and Their Applications (DSA 2019)*, Harbin, China, 2020: 511-512. (**EI 20202208767905**)
+- 论文：Ruilin Xie, Zhanqi Cui, **Minghua Jia**, Yuan Wen, Baoshui Hao. Testing Coverage Criteria for Deep Forests[C]. *In Proceedings of the 6th International Conference on Dependable Systems and Their Applications (DSA 2019)*, Harbin, China, 2020: 513-514. (**EI 20202208767916**)
+- 论文：Zhanqi Cui, **Minghua Jia**, Xiang Chen, Liwei Zheng, Xiulei Liu. Improving Software Fault Localization by Combining Spectrum and Mutation[J]. *IEEE Access*, 2020, 8: 172296-172307. (**SCI 000575880100001, EI 20211210119813**)
 - 论文：杨慧文, 崔展齐, 陈翔, **贾明华**, 郑丽伟, 刘建宾. 基于软件度量的Solidity智能合约缺陷预测方法[J]. *软件学报*, 2022, 33(5).
 
 ### 项目
