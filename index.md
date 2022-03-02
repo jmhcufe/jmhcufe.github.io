@@ -9,21 +9,21 @@ Email: jmhcufe@163.com    <img src="https://jmhcufe.github.io/jmh.png" height="1
 
 ### 专利  
 - **贾明华**, 崔展齐. 一种基于复合蜕变关系的分类器测试方法及系统, 专利号: ZL201811464880.2.
-- 杨慧文, 崔展齐, **贾明华**, 刘秀磊, 刘建宾, 郑丽伟. 面向Solidity智能合约的缺陷预测方法, 申请号: 202011562073.1.
 - 王秀利, **贾明华**. 一种融合领域知识的风险逻辑关系量化分析方法, 申请号: 202110234538.9.
+- 杨慧文, 崔展齐, **贾明华**, 刘秀磊, 刘建宾, 郑丽伟. 面向Solidity智能合约的缺陷预测方法, 申请号: 202011562073.1.
 
 ### 论文
-- **贾明华**, 徐月, 王晓东. 基于蜕变关系的贝叶斯分类器测试数据集生成器的设计与实现[J]. *数字技术与应用*, 2019, 37(5): 166-167.
-- **Minghua Jia**, Xiaodong Wang, Yue Xu, Zhanqi Cui, Ruilin Xie. Testing Machine Learning Classifiers based on Compositional Metamorphic Relations[J]. *International Journal of Performability Engineering*, 2020, 16(1): 67-77.
-- **Minghua Jia**, Zhanqi Cui, Yiwen Wu, Ruilin Xie, Xiulei Liu. SMFL Integrating Spectrum and Mutation for Fault Localization[C]. *In Proceedings of the 6th International Conference on Dependable Systems and Their Applications (DSA 2019)*, Harbin, China, 2020: 511-512.
-- Ruilin Xie, Zhanqi Cui, **Minghua Jia**, Yuan Wen, Baoshui Hao. Testing Coverage Criteria for Deep Forests[C]. *In Proceedings of the 6th International Conference on Dependable Systems and Their Applications (DSA 2019)*, Harbin, China, 2020: 513-514.
-- Zhanqi Cui, **Minghua Jia**, Xiang Chen, Liwei Zheng, Xiulei Liu. Improving Software Fault Localization by Combining Spectrum and Mutation[J]. *IEEE Access*, 2020, 8: 172296-172307.
 - 杨慧文, 崔展齐, 陈翔, **贾明华**, 郑丽伟, 刘建宾. 基于软件度量的Solidity智能合约缺陷预测方法[J]. *软件学报*, 2022, 33(5).
+- Zhanqi Cui, **Minghua Jia**, Xiang Chen, Liwei Zheng, Xiulei Liu. Improving Software Fault Localization by Combining Spectrum and Mutation[J]. *IEEE Access*, 2020, 8: 172296-172307.
+- **Minghua Jia**, Zhanqi Cui, Yiwen Wu, Ruilin Xie, Xiulei Liu. SMFL Integrating Spectrum and Mutation for Fault Localization[C]. *The 6th International Conference on Dependable Systems and Their Applications (DSA 2019)*, Harbin, China, 2020: 511-512.
+- Ruilin Xie, Zhanqi Cui, **Minghua Jia**, Yuan Wen, Baoshui Hao. Testing Coverage Criteria for Deep Forests[C]. *The 6th International Conference on Dependable Systems and Their Applications (DSA 2019)*, Harbin, China, 2020: 513-514.
+- **Minghua Jia**, Xiaodong Wang, Yue Xu, Zhanqi Cui, Ruilin Xie. Testing Machine Learning Classifiers based on Compositional Metamorphic Relations[J]. *International Journal of Performability Engineering*, 2020, 16(1): 67-77.
+- **贾明华**, 徐月, 王晓东. 基于蜕变关系的贝叶斯分类器测试数据集生成器的设计与实现[J]. *数字技术与应用*, 2019, 37(5): 166-167.
 
-### 软件著作权  
-- KidKid幼儿启蒙教育软件\[KidKid]V1.0, 登记号: 2020SR0307716.
-- 融合频谱和变异的软件缺陷定位工具系统\[SpMu-FL]V1.0, 登记号: 2020SR0970466.
+### 软件著作权
 - 金融事件风险逻辑关系量化平台\[FERL-RQ]V1.0, 登记号: 2021SR0713231.
+- 融合频谱和变异的软件缺陷定位工具系统\[SpMu-FL]V1.0, 登记号: 2020SR0970466.
+- KidKid幼儿启蒙教育软件\[KidKid]V1.0, 登记号: 2020SR0307716.
 
 ### 研究生期间所获奖学金/荣誉
 - 中央财经大学研究生学业奖学金一等奖
