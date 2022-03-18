@@ -1,6 +1,6 @@
 ## 贾明华  
   
-Email: jmhcufe@163.com    <img src="https://jmhcufe.github.io/jiamh.png" height="128" width="96" align="right">  
+Email: jmhcufe@163.com    <img src="https://jmhcufe.github.io/jiamh.png" height="150" width="120" align="right">  
 
 
 ### 教育经历  
