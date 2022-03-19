@@ -1,8 +1,7 @@
 ## 贾明华  
   
 Email: jmhcufe@163.com    <img src="https://jmhcufe.github.io/jiamh.png" height="150" width="115" align="right">  
-中央财经大学信息学院 
-中国工商银行软件开发中心
+中央财经大学信息学院  中国工商银行软件开发中心
 
 ### 教育经历  
 - 2020.09-2022.06 中央财经大学信息学院电子信息专业硕士研究生学习
