@@ -1,6 +1,6 @@
 ## 贾明华  
   
-北京大学图书馆计算服务中心, 助理馆员    <img src="https://jmhcufe.github.io/jiamh.png" height="150" width="115" align="right">  
+北京大学图书馆计算服务中心, 助理馆员    <img src="https://jmhcufe.github.io/jmh.png" height="150" width="115" align="right">  
 Email: jiamh@lib.pku.edu.cn
 
 ### 教育经历  
