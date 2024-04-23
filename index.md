@@ -17,16 +17,16 @@ Email: jiamh@lib.pku.edu.cn
 
 ### 论文
 1. **贾明华**. “双一流”高校图书馆科技查新与查收查引服务信息化建设机制研究[C]. *北京大学第九届青年干部未名管理论坛获奖论文集*, 北京, 2023: 210-225. (三等奖)
-2. **贾明华**. 馆配商协同采访平台建设的实践与思考[J]. *数字图书馆论坛*, 2023(03): 45-51. (CSSCI扩展版, AMI扩展)
-3. **贾明华**, 王秀利. 基于BERT和互信息的金融风险逻辑关系量化方法[J]. *数据分析与知识发现*, 2022, 6(10): 68-78. (北大核心, CSCD扩展版, CSSCI, AMI核心, EI Accession number: 20240615490488)  
+2. **贾明华**. 馆配商协同采访平台建设的实践与思考[J]. *数字图书馆论坛*, 2023(03): 45-51. (CSSCI扩展版, AMI扩展) <a href="https://kns.cnki.net/kcms2/article/abstract?v=QuBpG80dbeCA60wwJIIHnzhhH5zg7xt9FcqMUgTTkrl3Vlw6krhRvoKAWHsQcw42EGQKFLqebDlHqnxcvytB2Fmd-2FtqEwiW3HCcd7awMH00QKaia9f_xgThoSPbJjwzqMG2hZKAvXKwLFiiTIpMg==&uniplatform=NZKPT&language=CHS" target="_blank">[Link]</a> 
+3. **贾明华**, 王秀利. 基于BERT和互信息的金融风险逻辑关系量化方法[J]. *数据分析与知识发现*, 2022, 6(10): 68-78. (北大核心, CSCD扩展版, CSSCI, AMI核心, EI Accession number: 20240615490488)<a href="https://kns.cnki.net/kcms2/article/abstract?v=QuBpG80dbeDqXfA82oZueOYF5bZnVejY_lX_RF4Fdhd54c59aeG252qDQgwf4DtYaOKL58LLwHs5PgM4E2slcLfE29eNUZWDSY8H0w0u5EcQ-iEijAr68r9eZu64ovMbHcVJq7r3Qg_M7W-ityQT_g==&uniplatform=NZKPT&language=CHS" target="_blank">[Link]</a>   
   Jia Minghua, Wang Xiuli. Quantifying Logical Relations of Financial Risks with BERT and Mutual Information[J]. *Data Analysis and Knowledge Discovery*, 2022, 6(10): 68-78.
-4. 杨慧文, 崔展齐, 陈翔, **贾明华**, 郑丽伟, 刘建宾. 基于软件度量的Solidity智能合约缺陷预测方法[J]. *软件学报*, 2022, 33(5): 1587-1611.(CCF T1、A类中文期刊, 北大核心, CSCD, EI Accession number: 20222012112885)  
+4. 杨慧文, 崔展齐, 陈翔, **贾明华**, 郑丽伟, 刘建宾. 基于软件度量的Solidity智能合约缺陷预测方法[J]. *软件学报*, 2022, 33(5): 1587-1611.(CCF T1、A类中文期刊, 北大核心, CSCD, EI Accession number: 20222012112885)<a href="https://kns.cnki.net/kcms2/article/abstract?v=QuBpG80dbeDqXfA82oZueOYF5bZnVejY_lX_RF4Fdhc-FHRMNE5P35Vi9-ilNKoxMWUbATrzGYNInDYR2I1SsRSZkpeqE72imwzZ5qSUXivNBDnX466XStIHmL6yf2I_3YCpTdTivGTRqJMpORxgDQ==&uniplatform=NZKPT&language=CHS" target="_blank">[Link]</a>     
   Huiwen Yang, Zhanqi Cui, Xiang Chen, **Minghua Jia**, Liwei Zheng, Jianbin Liu. Defect Prediction for Solidity Smart Contracts Based on Software Measurement. *Journal of Software*, 2022,33(5):1587-1611.
 5. Zhanqi Cui, **Minghua Jia**, Xiang Chen, Liwei Zheng, Xiulei Liu. Improving Software Fault Localization by Combining Spectrum and Mutation[J]. *IEEE Access*, 2020, 8: 172296-172307. (EI Accession number: 20211210119813, SCI WOS: 000575880100001)
 6. **Minghua Jia**, Zhanqi Cui, Yiwen Wu, Ruilin Xie, Xiulei Liu. SMFL Integrating Spectrum and Mutation for Fault Localization[C]. *The 6th International Conference on Dependable Systems and Their Applications (DSA 2019)*, Harbin, China, 2020: 511-512. (EI Accession number: 20202208767905)
 7. Ruilin Xie, Zhanqi Cui, **Minghua Jia**, Yuan Wen, Baoshui Hao. Testing Coverage Criteria for Deep Forests[C]. *The 6th International Conference on Dependable Systems and Their Applications (DSA 2019)*, Harbin, China, 2020: 513-514. (EI Accession number: 20202208767916)
 8. **Minghua Jia**, Xiaodong Wang, Yue Xu, Zhanqi Cui, Ruilin Xie. Testing Machine Learning Classifiers based on Compositional Metamorphic Relations[J]. *International Journal of Performability Engineering*, 2020, 16(1): 67-77. (EI Accession number: 20200908240695)
-9. **贾明华**, 徐月, 王晓东. 基于蜕变关系的贝叶斯分类器测试数据集生成器的设计与实现[J]. *数字技术与应用*, 2019, 37(5): 166-167.
+9. **贾明华**, 徐月, 王晓东. 基于蜕变关系的贝叶斯分类器测试数据集生成器的设计与实现[J]. *数字技术与应用*, 2019, 37(5): 166-167.<a href="https://kns.cnki.net/kcms2/article/abstract?v=QuBpG80dbeBmB4FADva14go7-iAnEi1EsNnIgceKD780C-DSn4hqCIQre9zQKBtDW2XUvm02eHR7lKIFPeecLfCQkG5nK7vqtC66YHZsxNLMC6vdelHHxKKOy4X0yz4EMbnryY4MuMiIVij7-m9IPw==&uniplatform=NZKPT&language=CHSS" target="_blank">[Link]</a>
 
 ### 软件著作权
 1. **贾明华**. 金融事件风险逻辑关系量化平台\[FERL-RQ]V1.0, 登记号: 2021SR0713231.
