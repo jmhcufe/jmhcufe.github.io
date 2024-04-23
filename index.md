@@ -2,7 +2,9 @@
   
 北京大学图书馆计算服务中心, 助理馆员    <img src="https://jmhcufe.github.io/jmh.png" height="154" width="110" align="right">  
 Email: jiamh@lib.pku.edu.cn  
-<a href="https://kns.cnki.net/kcms2/author/detail?v=QuBpG80dbeBwMSshKvncwJRGvjdXGSHYQiwhU8G8kZkd2e21qnx5cHMY3S49TWhlzbcPTFIX9JoO7AJEenAme62oOAZLPKgpniEq-SkBAFyW9S3tu2VlVWneb0KuiCXE&uniplatform=NZKPT&language=CHS" target="_blank">知网</a> 
+<a href="https://kns.cnki.net/kcms2/author/detail?v=QuBpG80dbeBwMSshKvncwJRGvjdXGSHYQiwhU8G8kZkd2e21qnx5cHMY3S49TWhlzbcPTFIX9JoO7AJEenAme62oOAZLPKgpniEq-SkBAFyW9S3tu2VlVWneb0KuiCXE&uniplatform=NZKPT&language=CHS" target="_blank">知网</a>, 
+<a href="https://orcid.org/0000-0003-0859-7502" target="_blank">ORCID</a>, 
+<a href="https://www.scopus.com/authid/detail.uri?authorId=57215202223" target="_blank">Scopus</a> 
 
 ### 教育经历  
 - 2020.09-2022.06 中央财经大学 信息学院 电子信息专业
@@ -71,8 +73,8 @@ Email: jiamh@lib.pku.edu.cn
 
 ### 本科期间学科竞赛
 1. 北京信息科技大学思想政治理论课社会实践创新大赛个人项目一等奖《浅析临汾市环境治理》(2019.12)
-2. 北京信息科技大学思想政治理论课社会实践创新大赛集体项目志愿服务和道德小品类一等奖《用今天“赌”明天》(**贾明华**, 王浩斌, 廖歆滢, 谢瑞麟, 李虎. 2019.12)
-3. 2019-2020年度《软件项目综合实践》课程竞赛最佳项目奖(团队经理: **贾明华**, 团队成员: 谢瑞麟, 李虎, 廖歆滢, 陈超轶, 燕子悦, 刘依佳, 杨鹏程, 徐正科, 杨学斌, 李晓伟, 吴书哲. 2019.12)
+2. 北京信息科技大学思想政治理论课社会实践创新大赛集体项目志愿服务和道德小品类一等奖《用今天“赌”明天》(贾明华, 王浩斌, 廖歆滢, 谢瑞麟, 李虎. 2019.12)
+3. 2019-2020年度《软件项目综合实践》课程竞赛最佳项目奖(团队经理: 贾明华, 团队成员: 谢瑞麟, 李虎, 廖歆滢, 陈超轶, 燕子悦, 刘依佳, 杨鹏程, 徐正科, 杨学斌, 李晓伟, 吴书哲. 2019.12)
 4. 计算机学院“凝聚初心 砥砺前行”廉洁文化作品竞赛一等奖(2018.06)
 5. 北京信息科技大学2017年大学生物理竞赛三等奖(2017.10)
 6. 2017年北京信息科技大学大学生数学建模竞赛二等奖(2017.09)
