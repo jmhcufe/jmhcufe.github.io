@@ -10,7 +10,7 @@ Email: jiamh@lib.pku.edu.cn
 ### 专利  
 1. **贾明华**, 崔展齐. 一种基于复合蜕变关系的分类器测试方法及系统, 专利号:201811464880.2.(已授权)<a href="https://kns.cnki.net/kcms2/article/abstract?v=QuBpG80dbeCSYGFizfmG9zKDni4e-7C6vP1u8fn1izJJaiJMmx7j5L5xZnqlz24zgjabUiz3dEJFdGynEomOF3iOgqOJ60bFdsmMw_oE1VAT8T365U5vZUeeVk1KDVMar5tvdEVKkqU=&uniplatform=NZKPT&language=CHS" target="_blank">[Link]</a> 
 2. 王秀利, **贾明华**. 一种融合领域知识的风险逻辑关系量化分析方法, 专利号:202110234538.9.(已授权)<a href="https://kns.cnki.net/kcms2/article/abstract?v=QuBpG80dbeCU7ddtEsGj3nzzvfTBWUE47efyN8LNqs8VsHKrEXipmc-7Kr8u0DbExt7HdFq8k86vAYTPGwyW9lzBd5LMTa9F0xDY7hZX6ZPwLKAVPDWpDzZ_ke42P6toMLYDgrl_CPc=&uniplatform=NZKPT&language=CHS" target="_blank">[Link]</a> 
-3. 杨慧文, 崔展齐, **贾明华**, 刘秀磊, 刘建宾, 郑丽伟. 面向Solidity智能合约的缺陷预测方法, 申请号:202011562073.1.(已授权)<a href="https://kns.cnki.net/kcms2/article/abstract?v=QuBpG80dbeCSYGFizfmG9zKDni4e-7C6vP1u8fn1izJJaiJMmx7j5KM3RlWuW7hoTAkgRVXPhqmA_hk9MQmLoSbStsEGMKHvfMs29PeXItgWQ5ydS_V0GhUn8yhEmRTfY-ztlchpfv0=&uniplatform=NZKPT&language=CHS" target="_blank">[Link]</a> 
+3. 杨慧文, 崔展齐, **贾明华**, 刘秀磊, 刘建宾, 郑丽伟. 面向Solidity智能合约的缺陷预测方法, 专利号:202011562073.1.(已授权)<a href="https://kns.cnki.net/kcms2/article/abstract?v=QuBpG80dbeCSYGFizfmG9zKDni4e-7C6vP1u8fn1izJJaiJMmx7j5KM3RlWuW7hoTAkgRVXPhqmA_hk9MQmLoSbStsEGMKHvfMs29PeXItgWQ5ydS_V0GhUn8yhEmRTfY-ztlchpfv0=&uniplatform=NZKPT&language=CHS" target="_blank">[Link]</a> 
 
 ### 第一作者论文
 1. **贾明华**, 季梵, 张元俊, 赵静茹. 用户需求视域下文献受赠管理平台研究与实践——以北京大学图书馆为例[J]. *图书馆杂志*, 已录用.(北大核心, CSSCI)<a href="https://kns.cnki.net/kcms2/article/abstract?v=-xbefZa1Cds4aTL-p5c83ORvzRoNxjXtWQ8CZKdgH2ilMBQjGjmIOXAMtm8UVddYDvqyAIjzpw7iwL_RdjujyB8cEYPDKTVFEbQWSRdRu4kKHZDBTRXKJygM_KG4Fvm3oUT3SGm_lLb1GaM-xst9oDNbAd5r3K1iK0FDLAEeX5qzNc2djFxTUEW1KxVAs_-d&uniplatform=NZKPT&language=CHS" target="_blank">[Link]</a> 
