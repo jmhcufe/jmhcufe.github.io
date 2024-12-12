@@ -3,14 +3,12 @@
 北京大学图书馆计算服务中心, 馆员    <img src="https://jmhcufe.github.io/jmh.png" height="154" width="110" align="right">  
 Email: jiamh@lib.pku.edu.cn  
 
-### 教育经历  
+### 教育经历
 - 2020.09-2022.06 中央财经大学 信息学院 电子信息专业
 - 2016.09-2020.06 北京信息科技大学 计算机学院 软件工程专业
 
-### 专利  
-1. **贾明华**, 崔展齐. 一种基于复合蜕变关系的分类器测试方法及系统, 专利号:201811464880.2.(已授权)<a href="https://kns.cnki.net/kcms2/article/abstract?v=QuBpG80dbeCSYGFizfmG9zKDni4e-7C6vP1u8fn1izJJaiJMmx7j5L5xZnqlz24zgjabUiz3dEJFdGynEomOF3iOgqOJ60bFdsmMw_oE1VAT8T365U5vZUeeVk1KDVMar5tvdEVKkqU=&uniplatform=NZKPT&language=CHS" target="_blank">[Link]</a> 
-2. 王秀利, **贾明华**. 一种融合领域知识的风险逻辑关系量化分析方法, 专利号:202110234538.9.(已授权)<a href="https://kns.cnki.net/kcms2/article/abstract?v=QuBpG80dbeCU7ddtEsGj3nzzvfTBWUE47efyN8LNqs8VsHKrEXipmc-7Kr8u0DbExt7HdFq8k86vAYTPGwyW9lzBd5LMTa9F0xDY7hZX6ZPwLKAVPDWpDzZ_ke42P6toMLYDgrl_CPc=&uniplatform=NZKPT&language=CHS" target="_blank">[Link]</a> 
-3. 杨慧文, 崔展齐, **贾明华**, 刘秀磊, 刘建宾, 郑丽伟. 面向Solidity智能合约的缺陷预测方法, 专利号:202011562073.1.(已授权)<a href="https://kns.cnki.net/kcms2/article/abstract?v=QuBpG80dbeCSYGFizfmG9zKDni4e-7C6vP1u8fn1izJJaiJMmx7j5KM3RlWuW7hoTAkgRVXPhqmA_hk9MQmLoSbStsEGMKHvfMs29PeXItgWQ5ydS_V0GhUn8yhEmRTfY-ztlchpfv0=&uniplatform=NZKPT&language=CHS" target="_blank">[Link]</a> 
+### 项目
+1. 2025年高校图书馆数字资源采购联盟（DRAA）研究课题, 2025DRAA16, 课题负责人
 
 ### 第一作者论文
 1. **贾明华**, 季梵, 张元俊, 赵静茹. 用户需求视域下文献受赠管理平台研究与实践——以北京大学图书馆为例[J]. *图书馆杂志*, 已录用.(北大核心, CSSCI)<a href="https://kns.cnki.net/kcms2/article/abstract?v=-xbefZa1Cds4aTL-p5c83ORvzRoNxjXtWQ8CZKdgH2ilMBQjGjmIOXAMtm8UVddYDvqyAIjzpw7iwL_RdjujyB8cEYPDKTVFEbQWSRdRu4kKHZDBTRXKJygM_KG4Fvm3oUT3SGm_lLb1GaM-xst9oDNbAd5r3K1iK0FDLAEeX5qzNc2djFxTUEW1KxVAs_-d&uniplatform=NZKPT&language=CHS" target="_blank">[Link]</a> 
@@ -26,6 +24,11 @@ Email: jiamh@lib.pku.edu.cn
 2. 杨慧文, 崔展齐, 陈翔, **贾明华**, 郑丽伟, 刘建宾. 基于软件度量的Solidity智能合约缺陷预测方法[J]. *软件学报*, 2022, 33(5): 1587-1611.(CCF T1、A类中文期刊, 北大核心, CSCD, EI Accession number: 20222012112885)<a href="https://www.jos.org.cn/jos/article/abstract/6550" target="_blank">[Link]</a>     
 3. Zhanqi Cui, **Minghua Jia**, Xiang Chen, Liwei Zheng, Xiulei Liu. Improving Software Fault Localization by Combining Spectrum and Mutation[J]. *IEEE Access*, 2020, 8: 172296-172307.(EI Accession number: 20211210119813, SCI WOS: 000575880100001)<a href="https://ieeexplore.ieee.org/document/9201269" target="_blank">[Link]</a> 
 4. Ruilin Xie, Zhanqi Cui, **Minghua Jia**, Yuan Wen, Baoshui Hao. Testing Coverage Criteria for Deep Forests[C]. *The 6th International Conference on Dependable Systems and Their Applications (DSA 2019)*, Harbin, China, 2020: 513-514.(EI Accession number: 20202208767916)<a href="https://ieeexplore.ieee.org/document/9045858" target="_blank">[Link]</a>
+
+### 专利  
+1.王秀利, **贾明华**. 一种融合领域知识的风险逻辑关系量化分析方法, 专利号:202110234538.9.(已授权)<a href="https://kns.cnki.net/kcms2/article/abstract?v=QuBpG80dbeCU7ddtEsGj3nzzvfTBWUE47efyN8LNqs8VsHKrEXipmc-7Kr8u0DbExt7HdFq8k86vAYTPGwyW9lzBd5LMTa9F0xDY7hZX6ZPwLKAVPDWpDzZ_ke42P6toMLYDgrl_CPc=&uniplatform=NZKPT&language=CHS" target="_blank">[Link]</a> 
+2. 杨慧文, 崔展齐, **贾明华**, 刘秀磊, 刘建宾, 郑丽伟. 面向Solidity智能合约的缺陷预测方法, 专利号:202011562073.1.(已授权)<a href="https://kns.cnki.net/kcms2/article/abstract?v=QuBpG80dbeCSYGFizfmG9zKDni4e-7C6vP1u8fn1izJJaiJMmx7j5KM3RlWuW7hoTAkgRVXPhqmA_hk9MQmLoSbStsEGMKHvfMs29PeXItgWQ5ydS_V0GhUn8yhEmRTfY-ztlchpfv0=&uniplatform=NZKPT&language=CHS" target="_blank">[Link]</a>
+3. **贾明华**, 崔展齐. 一种基于复合蜕变关系的分类器测试方法及系统, 专利号:201811464880.2.(已授权)<a href="https://kns.cnki.net/kcms2/article/abstract?v=QuBpG80dbeCSYGFizfmG9zKDni4e-7C6vP1u8fn1izJJaiJMmx7j5L5xZnqlz24zgjabUiz3dEJFdGynEomOF3iOgqOJ60bFdsmMw_oE1VAT8T365U5vZUeeVk1KDVMar5tvdEVKkqU=&uniplatform=NZKPT&language=CHS" target="_blank">[Link]</a> 
 
 ### 软件著作权
 1. **贾明华**. 金融事件风险逻辑关系量化平台\[FERL-RQ]V1.0, 登记号: 2021SR0713231.
