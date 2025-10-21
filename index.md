@@ -14,7 +14,7 @@ Email: jiamh@lib.pku.edu.cn
 1. **贾明华**,金鑫,崔海媛.AIGC环境下中日高校图书馆数字学术服务的比较研究[C]//*中国图书馆学会年会论文集（2025卷）*,已录用.
 2. **贾明华**,崔海媛,金鑫,刘宇初,王菲.学术资源库AIGC服务的信息质量风险识别与治理研究[J/OL].*图书情报工作*,已录用.（北大核心, CSSCI, AMI权威）<a href="https://link.cnki.net/urlid/11.1541.G2.20250825.1356.004" target="_blank">[Link]</a> 
 3. **贾明华**,周子茗,殷蜀梅,王昊贤,韦成府.“双一流”高校图书馆科技查新服务信息化建设机制研究[J].*河南图书馆学刊*,已录用.（AMI入库）
-4. **贾明华**, 季梵, 张元俊, 赵静茹. 用户需求视域下文献受赠管理平台研究与实践——以北京大学图书馆为例[J/OL]. *图书馆杂志*, 已录用.（北大核心, CSSCI, AMI核心）<a href="https://kns.cnki.net/kcms2/article/abstract?v=-xbefZa1Cds4aTL-p5c83ORvzRoNxjXtWQ8CZKdgH2ilMBQjGjmIOXAMtm8UVddYDvqyAIjzpw7iwL_RdjujyB8cEYPDKTVFEbQWSRdRu4kKHZDBTRXKJygM_KG4Fvm3oUT3SGm_lLb1GaM-xst9oDNbAd5r3K1iK0FDLAEeX5qzNc2djFxTUEW1KxVAs_-d&uniplatform=NZKPT&language=CHS" target="_blank">[Link]</a> 
+4. **贾明华**,季梵,张元俊,等.用户需求视域下文献受赠管理平台研究与实践——以北京大学图书馆为例[J].图书馆杂志,2025,44(09):64-72.（北大核心, CSSCI, AMI核心）<a href="https://kns.cnki.net/kcms2/article/abstract?v=vfP_nAZksBLMCNyEqCZ3OXkBwwHHt8GsTmyEckTvqvWFm3ZAgjCkT4BMwJREDX0oAnE1WAlmyI_dnmmEACspzZ5Vc4iGPkl13sedyspiSHMwEppMK3brNanJt_W0ouynJoi3ixU0flsqGqD4E9RsneBYypwwGzqa&uniplatform=NZKPT" target="_blank">[Link]</a> 
 5. **贾明华**. “双一流”高校图书馆科技查新与查收查引服务信息化建设机制研究[C]// *北京大学第九届青年干部未名管理论坛获奖论文集*, 北京, 2023: 210-225. （三等奖）
 6. **贾明华**. 馆配商协同采访平台建设的实践与思考[J]. *数字图书馆论坛*, 2023(03): 45-51.（CSSCI扩展版, AMI扩展） <a href="https://dlf.istic.ac.cn/dlf/ch/reader/view_abstract.aspx?file_no=202303006&flag=1" target="_blank">[Link]</a> 
 7. **贾明华**, 王秀利. 基于BERT和互信息的金融风险逻辑关系量化方法[J]. *数据分析与知识发现*, 2022, 6(10): 68-78.（北大核心, CSCD, CSSCI, AMI核心, EI Accession number: 20240615490488）<a href="https://manu44.magtech.com.cn/Jwk_infotech_wk3/CN/Y2022/V6/I10/68" target="_blank">[Link]</a>
